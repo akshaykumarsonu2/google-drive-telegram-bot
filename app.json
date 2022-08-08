@@ -10,13 +10,13 @@
       "value": "ANYTHING"
     },
     "BOT_TOKEN": {
-      "description": "Get it from @BotFather"
+      "description": "5599752332:AAF4bY7548DSMmUqmy0e_X2kXN7vdUlrV6E"
     },
     "APP_ID": {
-      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+      "description": "12997539"
     },
     "API_HASH": {
-      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
+      "description": "1f6038993947560ab8189fb40f114476"
     },
     "SUDO_USERS": {
       "description": "List of sudo users ids, seperated by space.",
